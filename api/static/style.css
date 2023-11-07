@@ -354,3 +354,7 @@ i.menu-mobile {
     padding: 20px 15px;
   }
 }
+.card {
+  width: 300px;
+    height: 290px;
+}
