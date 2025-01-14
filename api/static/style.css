@@ -14,7 +14,7 @@ body {
   margin-bottom: 40px;
   position: relative;
   overflow: hidden;
-  border: 6px solid #021124;
+  border: 6px solid #ffffff;
 }
 .img-fluid.shadow:hover{
   transition: all 1s ease-in-out;
